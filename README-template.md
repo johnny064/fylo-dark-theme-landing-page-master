@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/johnny064/fylo-dark-theme-landing-page-master](https://your-solution-url.com)
-- Live Site URL: [https://fylo-dark-theme-landing-page-master-lac.vercel.app/](https://your-live-site-url.com)
+- Live Site URL: [https://fylo-dark-theme-landing-page-master-lac.vercel.app/](https://fylo-dark-theme-landing-page-master-lac.vercel.app/)
 
 ### Built with
 
