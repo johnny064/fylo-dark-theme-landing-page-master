@@ -1,0 +1,63 @@
+
+.footer{
+    margin: 10px 40px;
+}
+.foot-logo{
+    text-align: center;
+}
+.foot-logo img{
+    width: 50%;
+}
+.foot-para-text{
+    text-align: justify;
+    margin: 40px 40px;
+    font-size: 14px;
+    color: white;
+}
+.foot-para img{
+    float: left;
+    margin-top: 20px;
+}
+.foot-num{
+    text-align: justify;
+    margin: 40px 40px;
+    font-size: 14px;
+    color: white;
+}
+.foot-phn-icon img{
+    float: left;
+    margin-right:20px;
+    margin-top: 05px;
+}
+.foot-email-id{
+    text-align: justify;
+    margin: 40px 40px;
+    font-size: 14px;
+    color: white;
+}
+.foot-email-icon img{
+    float: left;
+    margin-right:20px;
+    margin-top: 05px;
+}
+/* foot navigation */
+.foot-nav-list01{
+    list-style-type: none;    
+}
+.foot-nav-item01 a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.foot-nav-list02{
+    margin-top: 20px;
+    margin-bottom:40px ;
+}
+.foot-nav-list02{
+    list-style-type: none;    
+}
+.foot-nav-item02 a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}

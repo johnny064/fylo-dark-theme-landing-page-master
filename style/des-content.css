@@ -1,0 +1,23 @@
+.des-content{
+    margin-top: -40px;
+    padding-top: 80px;
+    background-color: hsl(217, 28%, 13%);
+}
+.point01,.point02,.point03,.point04{
+    text-align: center;
+}
+.point01,.point02,.point03,.point04 img{
+    margin-top: 100px;
+}
+.des-content div{
+    color: white;
+    font-family:'Open Sans', sans-serif ;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.p1-des-head,.p2-des-head,.p3-des-head, .p4-des-head{
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin: 20px;
+}

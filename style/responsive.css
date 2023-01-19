@@ -1,0 +1,95 @@
+/* width 1440px for desktop */
+
+@media screen and (min-width: 1440px){
+    .head-text{
+        width: 100vw;
+        margin: auto;
+        line-height: 1.4cm;
+    }
+    .home-para{
+        width: 30%;
+        margin: -40px auto;
+        margin-bottom: 20px;
+    }
+    .home-btn{
+        margin: 40px 0px;
+        text-align: center;
+    }
+/* contnt description */
+.des-content{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.p1-des-para,.p2-des-para,.p3-des-para,.p4-des-para{
+    width: 60%;
+    margin: auto;
+    transform: translateX(120px);
+    text-align: center;
+}
+/* Productive section */
+.pro-container{
+    width: 100%;
+    margin: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.pro-img img{
+    width: 150%;
+    float: left;
+    margin-left: 40px;
+}
+.pro-para{
+    padding-left: 200px;
+    padding-right: 80px;
+}
+.proBtn button{
+    margin-left: 200px;
+}
+/* Feedback Container */
+
+.feedback-container{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;  
+}
+
+/* sign-up form */
+form input[type = "button"]{
+    margin-left: 40px;
+}
+form p{
+    text-align: center;
+}
+.sign-up form{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+/* footer */
+.foot-logo img{
+    width: 10%;
+}
+.foot-logo{
+    text-align: left;
+}
+.foot-main-nav{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.foot-para-text{
+    text-align: left;
+    width: 200px;
+}
+.foot-nav{
+    display: flex;
+    justify-content: space-around;
+    gap: 180px;
+    justify-content: center;
+}
+  }

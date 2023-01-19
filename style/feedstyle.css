@@ -1,0 +1,24 @@
+.feedback-container{
+    padding-top: 100px;
+    background-color: hsl(218, 28%, 13%);
+}
+.feed{
+    padding: 20px;
+}
+.feedback-container .feed{
+    background-color: hsl(217, 28%, 15%);
+    margin: 40px;
+    color: white;
+}
+.feed img{
+    border-radius: 50%;
+    width: 50px;
+    float: left;
+    margin-right: 20px;
+}
+.feed .fedname{
+    padding: 20px; 
+}
+.fedname p{
+    margin-left: 20px;
+}

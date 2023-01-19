@@ -1,0 +1,33 @@
+.pro-container div{
+    color: white;
+    font-family:'Open Sans', sans-serif ;
+    margin-left: 20px;
+    margin-right: 20px;   
+}
+.pro-container{
+    background-color: hsl(217, 28%, 13%);
+}
+.point-pro{
+    text-align: justify;
+}
+.pro-img img{
+    width: 100%;
+    margin-top: 100px;
+}
+.pro-head{
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin: 20px;
+    text-align: center;
+}
+.proBtn button{
+    background: none;
+    outline: none;
+    border: none;
+    color: hsl(176, 68%, 64%);
+    text-decoration: underline;
+    font-weight: 700;
+    margin-top: 10px;
+    font-size: 1rem;
+    font-family:'Open Sans', sans-serif
+}
